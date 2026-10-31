@@ -1,0 +1,78 @@
+{
+  "format": "ptb.drill/1",
+  "title": "Futsal corner: screen and far post",
+  "field": "futsal",
+  "phases": [
+    {
+      "role": "setup",
+      "caption": "Set up: corner right, defenders goal-side",
+      "at": "bottom",
+      "say": "A futsal corner on the right. Seven shows short, nine waits to screen and ten sits at the top of the area. Four outfield defenders plus the keeper: three marking goal-side, six on the near post. Five plays it short to seven.",
+      "players": [
+        { "team": "home", "number": 5,  "at": "attacking-corner-right" },
+        { "team": "home", "number": 7,  "at": [0.82, 0.15] },
+        { "team": "home", "number": 9,  "at": [0.62, 0.13] },
+        { "team": "home", "number": 10, "at": "attacking-top-of-d" },
+        { "team": "away", "number": 1,  "at": [0.50, 0.06] },
+        { "team": "away", "number": 2,  "at": [0.76, 0.11] },
+        { "team": "away", "number": 3,  "at": [0.55, 0.10] },
+        { "team": "away", "number": 4,  "at": [0.50, 0.17] },
+        { "team": "away", "number": 6,  "at": [0.60, 0.07] }
+      ],
+      "ball": { "carriedBy": 5 }
+    },
+    {
+      "role": "execution",
+      "caption": "Short, and two is dragged wide",
+      "at": "bottom",
+      "say": "Two has to come out to the ball. He stays goal-side but he is dragged wide, and that is the whole point of going short. Now nine slides across and screens four.",
+      "players": [
+        { "team": "home", "number": 7, "at": [0.86, 0.12] },
+        { "team": "away", "number": 2, "at": [0.81, 0.11] }
+      ],
+      "ball": { "passTo": 7 }
+    },
+    {
+      "role": "execution",
+      "caption": "Nine screens, ten steps across",
+      "at": "bottom",
+      "say": "Nine sets the screen so four cannot follow across. Four is still goal-side but he is beaten sideways, and ten steps into the space. Seven rolls it back into ten's stride.",
+      "players": [
+        { "team": "home", "number": 9,  "at": [0.55, 0.19] },
+        { "team": "away", "number": 3,  "at": [0.52, 0.15] },
+        { "team": "home", "number": 10, "at": [0.62, 0.21] },
+        { "team": "away", "number": 4,  "at": [0.54, 0.18] },
+        { "team": "away", "number": 6,  "at": [0.59, 0.11] }
+      ]
+    },
+    {
+      "role": "execution",
+      "caption": "Ten strikes low across goal",
+      "at": "bottom",
+      "say": "Ten hits it low and early across the keeper. The shot is from the right, so the far post is the left one. The keeper covers his near post and nine spins off the screen.",
+      "players": [
+        { "team": "away", "number": 1, "at": [0.55, 0.06] },
+        { "team": "away", "number": 4, "at": [0.58, 0.19] }
+      ],
+      "ball": { "passTo": 10 }
+    },
+    {
+      "role": "execution",
+      "caption": "Nine beats three to the far post",
+      "at": "bottom",
+      "say": "Three has watched the ball instead of his man, so nine gets across him. Six is tied to the near post and cannot cover the width in time.",
+      "players": [
+        { "team": "home", "number": 9, "at": [0.45, 0.08] },
+        { "team": "away", "number": 3, "at": [0.50, 0.11] },
+        { "team": "away", "number": 6, "at": [0.58, 0.09] }
+      ],
+      "ball": { "passTo": 9 }
+    },
+    {
+      "role": "coaching",
+      "caption": "Coaching points",
+      "at": "bottom",
+      "say": "Coaching points. Defenders start goal-side of their man, between him and the goal. Go short to drag one of them out. Screen so the marker cannot follow across. Strike low to the far post, and someone always attacks it."
+    }
+  ]
+}
