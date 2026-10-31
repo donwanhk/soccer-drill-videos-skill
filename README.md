@@ -38,7 +38,8 @@ human and never by the render, which looked fine either way.
 Clone into `~/.claude/skills/` and Claude Code picks it up:
 
 ```bash
-git clone <this repo> ~/.claude/skills/soccer-drill-videos
+git clone https://github.com/donwanhk/soccer-drill-videos-skill.git \
+  ~/.claude/skills/soccer-drill-videos
 ```
 
 The video project it drives lives separately.
