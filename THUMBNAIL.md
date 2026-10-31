@@ -34,6 +34,11 @@ which is right for `圍圈搶球積分賽` (圍圈搶球 / 積分賽) and wrong 
 (三門小型 / 賽). When the automatic wrap breaks a title badly, set `thumbTitle` in the drill
 JSON with an explicit `\n`.
 
+**Every line of `thumbTitle` must itself be four characters or fewer.** The wrap still runs
+over what you wrote, so `邊路二過一\n挑戰` comes out as three lines — 邊路二過 / 一 / 挑戰.
+Drop a word rather than overflow: `邊路\n二過一` reads fine and the full title is on the
+title card anyway.
+
 Outline every text item: `stroke` plus `paintOrder="stroke fill"` at about a third of the
 font size. White on grass vibrates without it.
 

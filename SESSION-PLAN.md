@@ -27,9 +27,14 @@ Four blocks. The main block is the one that gets filmed.
 | Block | Share | What it is |
 |---|---|---|
 | 熱身 Warm-up | ~20% | Ball work, joints and heart rate up, no queues |
-| 主練習 Main | ~35% | The theme, in a game: this is the filmed block |
+| 主練習 Main | ~20–35% | The theme, in a game: this is the filmed block |
 | 進階 Progression | ~25% | The same theme, harder or bigger |
-| 比賽 Game | ~20% | Free play where the theme can appear on its own |
+| 比賽 Game | ~20–25% | Free play where the theme can appear on its own |
+
+**The age cap below beats the share.** They disagree: 35% of a 70-minute U9–U12 session is
+24 minutes, and the age table caps the main block at 15. The cap wins — a share is a rough
+target, the cap is a limit on how long one rule set holds attention. Put the spare minutes
+into the progression and the game, which are the same theme anyway.
 
 **One theme per session.** A session that teaches pressing and switching play teaches
 neither. The warm-up and the game should both touch the main block's theme, so the night
