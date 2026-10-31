@@ -31,6 +31,7 @@ detail each step needs.
 | [WORKFLOW.md](WORKFLOW.md) | The six steps, and when to ask versus assume |
 | [SESSION-PLAN.md](SESSION-PLAN.md) | Session shape, length by age, load, the fourteen fields of a drill |
 | [VIDEO.md](VIDEO.md) | The eleven sections, the build loop, the rules that matter most |
+| [WORDING.md](WORDING.md) | The house vocabulary — which Chinese word for which thing |
 | [STYLE.md](STYLE.md) | Geometry, palette, fonts, layout, how a role change is drawn |
 | [AUDIO.md](AUDIO.md) | The Cantonese voice, line budgets, verifying narration landed |
 | [THUMBNAIL.md](THUMBNAIL.md) | What a thumbnail carries, and what it may not claim |
