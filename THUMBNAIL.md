@@ -26,6 +26,11 @@ Two things that follow from that:
 - **A position is the sprite's feet.** The body plus its shirt number stand 30 px above it,
   so centre on the visual box, not the raw points, or the back row loses its heads.
 - **Clip the pitch window** so a wide pitch cannot spill into the title.
+- **Scale the group down when it does not fit.** A drill with queues behind both end lines
+  is taller than the 134 x 146 window, and cropping it cuts players off at the shins, which
+  reads as a broken image rather than a crop. A *uniform* scale is not a violation of the
+  true-scale rule: every distance stays proportional, which is what that rule protects. A
+  non-uniform one would be.
 
 ## Titles
 
