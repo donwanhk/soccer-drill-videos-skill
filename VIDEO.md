@@ -42,6 +42,11 @@ three verification failures that did not exist.
   colour follow `sideAt`, so a player visibly changes team, and the rotation section draws a
   two-headed purple arrow between each pair. Purple is used nowhere else, so it can never be
   read as a pass (gold) or a run (salmon).
+  Two shapes of rotation, and they are not the same: **pairs** (`rotation.swaps`) trade two
+  players between the sides, and **whole team** (`rotation.teamSwap`) flips every kit at
+  once with no arrows. Pair swaps only flip a kit when the pair really is cross-team —
+  listing two team-mates who are just trading places in a queue once turned every attacker
+  blue, because the scene flipped anyone who had a partner.
 - **The queue.** Waiting players are real actors standing in it, with a `zone` labelling it.
 - **The starting positions.** A `zone` of kind `start` draws a cone where a player stands
   before anything moves.
