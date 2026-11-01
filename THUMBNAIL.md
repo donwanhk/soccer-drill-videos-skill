@@ -9,8 +9,14 @@ hand. Branding is governed by `BRAND.md` in the project root.
 A thumbnail is read at about 200 px wide in a feed. It carries:
 
 1. **The title** — large, left, two lines of four characters.
-2. **Who it is for** — one gold chip: `人數 · 年齡`.
+2. **What it teaches and who it is for** — a two-line chip: the **theme** in gold, then
+   `類別 · 難度 · 年齡` beneath it.
 3. **A glimpse of the drill** — right side.
+
+**The squad size is deliberately not on the thumbnail.** It is on the drill card, in the
+description and in the narration, and at feed width every character has to earn its place.
+A coach scrolling decides on the theme, the level and the age band; the number of players
+matters once they have clicked.
 
 Plus the channel lockup bottom-left at a size that stays out of the way. Anything else is
 noise at feed size.
