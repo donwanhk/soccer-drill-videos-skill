@@ -67,6 +67,11 @@ Everything here is what a coach asks, in the order they ask it. These are also t
 the drill JSON carries, so the video cannot teach something the plan does not say.
 
 1. **主題 Theme** — one thing. 壓迫下控球, not 控球同埋壓迫.
+   **類別 Category is the skill, not the format.** One of 傳球, 帶球, 控球, 防守, 轉換,
+   配合 — what a coach searches for. 「單挑對抗」describes the shape of the game, which the
+   title and the player count already say; 「防守」says what the session is for. Theme and
+   category sit side by side on the drill card and the thumbnail, so they must not repeat
+   each other.
 2. **問題 Problem** — what goes wrong in a match that this fixes. Written as the coach
    would describe it, not as a textbook objective.
 3. **目標 Aim** — what the players should be able to do by the end.
