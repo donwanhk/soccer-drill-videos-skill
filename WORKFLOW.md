@@ -67,6 +67,13 @@ rebuild it. Change the source, say plainly which videos on disk are now stale, a
 be told. A batch of re-renders is twenty-five minutes of someone's machine, and they may
 want several corrections to land in one pass.
 
+**"The change made them stale" is not permission.** That is the whole point: a requested
+edit to a thumbnail, a word, a category or a field on the drill card leaves the old videos
+out of date, and leaving them out of date is the correct state until the person says
+otherwise. Asking for a change to the source is not asking for a render. Only an explicit
+"render it" is. Say which files are now stale and stop there — including when you are
+confident they will want it.
+
 
 The session plan, the mp4, the thumbnail and the description — with the video's duration,
 and anything a check flagged that could not be fixed. If a drill fails its checks and
