@@ -83,6 +83,10 @@ the drill JSON carries, so the video cannot teach something the plan does not sa
    it is a demonstration, not a drill, and it does not get filmed.**
 10. **輪轉 Rotation** — who swaps with whom and when. Name the role change explicitly:
     "the attacking pair becomes the next defending pair".
+    **Count the two sides before writing "the teams swap".** A whole-team swap only works
+    when the sides are the same size. Four attackers and two defenders cannot trade
+    wholesale; swap a pair instead — the pair that just attacked takes over defending and
+    the two defenders rejoin the attacking pool, which keeps 4 and 2 as 4 and 2.
 11. **重點 Coaching points** — four, no more. Each one a thing to say on the grass, short
     enough to shout.
 12. **變化 Variations** — two or three ways to change it without rebuilding it.
