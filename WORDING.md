@@ -42,6 +42,18 @@ So the same action is 傳球 on screen and 傳波 spoken. That is not an inconsi
 The moment the ball gets away from an opponent's foot is **控甩腳**: 等佢控甩腳先搶.
 Not 甩腳 on its own.
 
+## 細路仔點稱呼
+
+**「細朋友」唔係一個詞，唔好用。** 廣東話講細路係 **小朋友**。
+
+| 講緊乜 | 用邊個詞 |
+|---|---|
+| 練習入面嘅人，唔理年齡 | 球員 |
+| 特登指細路仔（例如解釋點解 U8 要調淺啲） | 小朋友 |
+
+預設係 **球員** —— 睇片嗰個係教練，佢講緊自己隊波嘅人。寫 小朋友 淨係喺真係講緊
+年齡嗰陣先啱。同 [波仔 → 球員](#其他已定嘅詞) 係同一個道理。
+
 ## 器材
 
 | Thing | Word |
